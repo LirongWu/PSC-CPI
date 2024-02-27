@@ -68,10 +68,10 @@ where (1) *task_mode* is one of the two CPI tasks: 0 (Strength Prediction) and 1
 If you find this project useful for your research, please use the following BibTeX entry.
 
 ```
-@inproceedings{wu2024protein,
-  title={PSC-CPI: Multi-Scale Protein Sequence-Structure Contrasting for Efficient and Generalizable Compound-Protein Interaction Prediction},
-  author={Wu, Lirong and Huang, Yufei and Tan, Cheng and Gao, Zhangyang and Lin, Haitao and Hu, Bozhen and Liu, Zicheng and Li, Stan Z},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+@article{wu2024psc,
+  title={Psc-cpi: Multi-scale protein sequence-structure contrasting for efficient and generalizable compound-protein interaction prediction},
+  author={Wu, Lirong and Huang, Yufei and Tan, Cheng and Gao, Zhangyang and Hu, Bozhen and Lin, Haitao and Liu, Zicheng and Li, Stan Z},
+  journal={arXiv preprint arXiv:2402.08198},
   year={2024}
 }
 ```
